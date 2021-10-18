@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Worked along side with Daniel Cullen x00168408 and Hubert Bukowski x00161898
+
 
 int main() {
 	myIntVector v;
