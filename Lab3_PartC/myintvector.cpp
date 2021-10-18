@@ -4,8 +4,6 @@
 using namespace std;
 // Class implementation
 
-// Worked along side with Daniel Cullen x00168408 and Hubert Bukowski x00161898
-
 // Vector default constructor
 myIntVector::myIntVector() {
 	cout << "Constructing the vector" << endl;
