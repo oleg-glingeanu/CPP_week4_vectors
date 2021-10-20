@@ -26,6 +26,7 @@ public:
 	const int& at(int i) const;
 	int& at(int i);
 	~myIntVector();
+	void print();
 
 };
 
